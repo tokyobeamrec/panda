@@ -1,0 +1,32 @@
+X:1
+T:title
+M:4/4
+K:C octave=0
+Q:1/4=132
+V:1
+L:1/8
+%%MIDI channel 9
+%%MIDI program 73
+%%MIDI control 7 80
+z8 |
+%
+A2 A2 A2 c2 |
+w:お は な し
+BB AG2-G z2 |
+w:し よ お よ
+AA2 A A2 Ac |
+w:あ りん こ にっ こ に 
+B2 A2z2 z2 |
+w:こ よ
+%
+^F2 F2 F2 F2 |
+w:さ ん に ん  
+^F2 FG A2 z2 |
+w:いっ しょ だ もん
+Bz Bz Bz z2 |
+w:わ は は 
+z2 z2 z2 A2 |
+w:だ
+% 
+G2 z2 z4 |
+w:もん
