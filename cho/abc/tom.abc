@@ -1,0 +1,18 @@
+X:1
+T:title
+M:4/4
+K:C 
+Q:1/4=132
+V:1
+%%MIDI channel 10
+%%MIDI program 1
+%%MIDI control 7 80
+L:1/16
+D,D,D,D, C,C,C,C, D,, D,, C,2 (6D,,D,,D,,D,,D,,D,, (6C,C,C,C,C,C,
+%
+L:1/8
+z2 z2 z2 z2 |
+z2 z2 z2 z2 |
+z2 z2 z2 z2 |
+z2 z2 z2 D,/2 D,/2 C,|
+

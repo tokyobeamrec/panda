@@ -1,0 +1,25 @@
+X:1
+T:title
+M:4/4
+K:C octave=1
+Q:1/4=132
+V:1
+L:1/8
+%%MIDI channel 9
+%%MIDI program 112
+%%MIDI control 7 80
+z8
+%
+L:1/8
+zccz z4
+c4 z4
+%
+zccz z4
+c4 z4
+zccz z4
+c4 z4
+%
+zccz z4
+c4 z4
+zccz z4
+c4 z4

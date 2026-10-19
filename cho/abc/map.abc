@@ -1,0 +1,38 @@
+X:1
+T:title
+M:4/4
+K:C 
+Q:1/4=132
+V:1
+L:1/8
+%%MIDI channel 10
+%%MIDI program 1
+%%MIDI control 7 80
+%
+% B0 B,,,| C1=C,,|C2=C,|C3=C|C4=c
+%% kc
+B,,,B,,,B,,,B,,, C,,C,,C,,C,,|
+^F,, ^F,,^F,,^F,,^F,, ^F,,^F,,^F,,
+% a sn, e sn
+D,,D,,D,,D,, E,, E,, E,, E,,
+% side, 
+^C,,^C,,^C,,^C,, z4
+^F,, ^F,,^F,,^F,,^F,, ^F,,^F,,^F,,
+%
+%% cow
+^G,^G,^G,^G, _A,_A,_A,_A,
+^F,, ^F,,^F,,^F,,^F,, ^F,,^F,,^F,,
+%tom
+%% lo flr, hi flr
+F,,F,,F,,F,, G,,G,,G,,G,,
+%% lo tom, lo-m tom
+A,,A,,A,,A,, B,,B,,B,,B,,
+%% hi-m tom, hi tom
+C,C,C,C, D,D,D,D,     
+^F,, ^F,,^F,,^F,,^F,, ^F,,^F,,^F,,
+%
+^A,^A,^A,^A,
+_B,_B,_B,_B,
+^F,, ^F,,^F,,^F,,^F,, ^F,,^F,,^F,,
+
+

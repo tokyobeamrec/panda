@@ -1,0 +1,44 @@
+X:1
+T:title
+M:4/4
+K:C octave=0
+Q:1/4=132
+V:1
+L:1/8
+%%MIDI channel 9
+%%MIDI program 48
+%%MIDI control 7 80
+z8 |
+%
+L:1/8
+%
+A2BA B2cB d2cd e2de 
+%
+d4 d4 d4 d4
+z8 z8
+d4 d4 d4 d4
+A2BA B2cB d2cd e2de 
+%
+%%MIDI control 7 50
+[Ace]8-[Ace]8
+V:2
+L:1/8
+%%MIDI channel 1
+%%MIDI control 7 100
+z8 |
+%
+L:1/8
+%
+A2BA B2cB d2cd e2de 
+%
+z8z8
+z8z8
+%
+z8z8
+A2BA B2cB d2cd e2de 
+%
+%%MIDI control 7 50
+[Ace]8-[Ace]8
+
+
+

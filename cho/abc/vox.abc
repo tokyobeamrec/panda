@@ -1,0 +1,32 @@
+X:1
+T:title
+M:4/4
+K:C octave=-1
+Q:1/4=132
+V:1
+L:1/8
+%%MIDI channel 9
+%%MIDI program 107
+%%MIDI control 7 80
+z8 |
+%
+cc cc dd d2 |
+w:ス サ ノ オ シュ メ ル
+c2 cc d2z2|
+w:マ ル ドゥ ク
+cc dd _ee  d2|
+w:つ ば さ の た い よ
+c2 dc  _A2z2|
+w:もっ こ う もん
+GG _EE GG _A2|
+w:た い よ の こ う し
+GG G_E D2z2|
+w:ご ず て ん の
+cc cc d2 d2|
+w:さ ん か く す き
+c2 cc d2z2|
+w:な が ほ こ
+GG  _AA dc A2   |
+w:ティ ア マ ト た い じ
+G/2G/2 G/2G/2 GF G2z2|
+w:や ま た の お ろ ち
